@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true coppy of a letter written by a gentleman in Brussels, to his friend in London, giving him a brief account of the state of those provinces, in relation to the war. : As also some remarkable passages relating to his Grace James Duke of Monmouth since his arrival in those parts.</title>
+            <author>P. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88755</idno>
+            <idno type="STC">Wing L52</idno>
+            <idno type="STC">ESTC R179226</idno>
+            <idno type="EEBO-CITATION">43163957</idno>
+            <idno type="OCLC">ocm 43163957</idno>
+            <idno type="VID">151591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151591)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2266:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true coppy of a letter written by a gentleman in Brussels, to his friend in London, giving him a brief account of the state of those provinces, in relation to the war. : As also some remarkable passages relating to his Grace James Duke of Monmouth since his arrival in those parts.</title>
+                  <author>P. L.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Brussels? :</pubPlace>
+                  <date>1684?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to P.L. by Wing.</note>
+                  <note>Signed: Brussels, August to 10th ... 1684.</note>
+                  <note>Reproduction of original in: Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151591:1" rendition="simple:additions"/>
+            <head>The True Coppy of a LETTER Written by a Gentleman in BRUSSELS, To his Friend in <hi>LONDON,</hi> Giving him a Brief Account of the State of thoſe Provinces, in Relation to the VVAR. As alſo ſome Remark<g ref="char:EOLhyphen"/>able paſſages Relating to his Grace <hi>JAMES</hi> Duke of Monmouth Since his Arrival in thoſe Parts.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ACcording to your Requeſt, which with me are Eſteem'd no leſs then Commands, I have from time to time given you as near the Truth as poſſible, a particular Account of the Tranſactions in theſe Provinces, as to Martial Affairs, e<g ref="char:EOLhyphen"/>ſpecially Impartially Relating them as they came to my know<g ref="char:EOLhyphen"/>ledge, without the leaſt alteration either in affection to my Coun<g ref="char:EOLhyphen"/>try or prejudice to the Enemy, who indeed has waſted the Fruit<g ref="char:EOLhyphen"/>ful part thereof with ſo great a Devaſtation, that the Revolution of many years cannot reſtore the face of things, as they were, nor have we as yet any certain hopes of a Peace, with our too Potent Neighbour the moſt Chriſtian King, the Increaſe of whoſe Army daily fills us with new fear; The Villagers for the moſt part bor<g ref="char:EOLhyphen"/>dering upon the Province of <hi>Luxemburg,</hi> have diſſerted their Habi<g ref="char:EOLhyphen"/>tations, and retired (with the little Subſtance that remains) into Walled Towns and Fortreſſes of great Strength, as not being able to pay the unreaſonable exactions of the <hi>French,</hi> which by way of Contribution they demand as Dependants on that Subjected Pro<g ref="char:EOLhyphen"/>vince, nor is our Army as yet in a capacity to enter upon any conſi<g ref="char:EOLhyphen"/>derable Action though greater Rigour ſhould by the Enemy be Im<g ref="char:EOLhyphen"/>poſed upon, the Suffering People who groan under the oppreſſion. The <hi>French</hi> Horſes Eat up their Hay and Corn, and the Souldiers all that comes to Hand, yet if they comply not with their De<g ref="char:EOLhyphen"/>mands their Houſes are Fired, and the poor Poſſeſſors turned out Naked to wander in the Fields and Woods, where ſome of them are compelled to Feed on what the Buſhes and Wild Trees affords, or elſe Miſerably Periſh for Hunger, and indeed ſuch is our wretch<g ref="char:EOLhyphen"/>ed State, that we Indure the extreameſt Miſeries attendant on a Cruel War, yet hope e're long (if matters conclude not in Peace, which is to be preferred before the Juſteſt War) we ſhall be
+<pb facs="tcp:151591:2"/>able to Retalliate our Miſuſages, or at leaſt put a ſtop to the fur<g ref="char:EOLhyphen"/>ther Progreſs of the Enemy. Our worthy Governour the Mar<g ref="char:EOLhyphen"/>queſs <hi>D'Grana</hi> omitting no dilligence to forward things to be beſt advantage, &amp; indeed had not the Province of <hi>Holland &amp;c.</hi> unexpect<g ref="char:EOLhyphen"/>edly withdrawn their Forces, <hi>Luxemburg</hi> that Famous City, ſo brave<g ref="char:EOLhyphen"/>ly Defended by the Heroick Valour of the Renowned Prince <hi>De Chimay,</hi> and other worthy Perſons had not fallen to the ſhare of the Enemy; But however our Forces daily Increaſe, eſpecially by the coming of many Voluntary Gentlemen of moſt Nations, Chri<g ref="char:EOLhyphen"/>ſtians, but eſpecially <hi>Engliſh,</hi> in whoſe Valour we have not a little confidence, but are more eſpecially encouraged, by having amongſt us the Heroick Pattern of true Valour, and Conduct <hi>James</hi> Duke of <hi>Monmouth,</hi> whoſe brave Atchievements at <hi>Monſe</hi> are not, nor never will be Raced out of our Memories, his Name being there ſuch a Terror to the <hi>French,</hi> that paſt doubt next Heaven, it moſt<g ref="char:EOLhyphen"/>ly contributed to that Happy Victory; as yet I cannot learn that he is Inclinable to take upon him any Publick Command in the Ar<g ref="char:EOLhyphen"/>my, though 'tis ſtrongly Reported ſome advantagious Overtures have been made, and his Grace highly preſſed to accept them, the which that he would do, is the wiſh of moſt; Since his A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rival divers of our Nobility have been to Viſit him, and pay their Re<g ref="char:EOLhyphen"/>ſpects to a Perſon ſo highly deſcended, and he in Complement hart. Returned their Viſits, Behaving himſelf with ſuch a Noble mean, ſo well becoming a Perſon under his circumſtances, that both the Gentry and Commonalty Reſpect him with a Sarrow compound<g ref="char:EOLhyphen"/>ed of Love and Pitty. His Retinue is but ſmall, by reaſon he has no certain place of Reſidence, but is therein moſtly accom<g ref="char:EOLhyphen"/>modated by the Gentry of the Country; having ſince his Arrival been to view divers places, and eſpecially ſuch as are of ſtrength, obſerving the VVorks, and Curiouſly taking notice of ſuch parts and places as are defective, ſhewing himſelf therein not only a Soul<g ref="char:EOLhyphen"/>dier but an expert Enginere: And when he is not ſo Imployed, he recreates himſelf with Racing and other Noble paſtimes beſeem<g ref="char:EOLhyphen"/>ing his Character, not appearing inclineable to return for <hi>England</hi> till the Campaign is over, which induces us to believe that he will at laſt be prevailed upon to take a Command if the War continue, &amp; Peace puts not a Period to its dreadful Progreſs: 'tis further report<g ref="char:EOLhyphen"/>ed that his Grace before his departure intends to pay a viſit to their Highneſs, the Prince &amp; Princeſs of <hi>Orange,</hi> and that ſuddenly he will be at this place to Complement our Governour upon his return.</p>
+            <p>As for the Diſcourſe, that his Grace had a Challenge ſent him by an unknown hand with ſome reflections on him, ſuppoſed to be ſent by Count <hi>Charles John Cuningsmark,</hi> it proves altogether a falſe and groundleſs Report, as far as the moſt <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>gent inquiry into that Affair is capable to define.</p>
+            <p>
+               <hi>Sir,</hi> thus, having, given you a Brief Account of the State of Aaffairs in theſe Provinces, I take my Leave till the next opportunity of ſerving you in the like Nature and Subſcribe my Selfe</p>
+            <closer>
+               <dateline>Bruſſels, <date>
+                     <hi>Auguſt</hi> the 10th <hi>Stila Nova,</hi> 1684.</date>
+               </dateline>
+               <salute>Sir,</salute> 
+               <signed>Your Humble Servant <hi>P. L.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
